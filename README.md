@@ -22,7 +22,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=motaz-darawsha&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=motaz-darawsha&show_icons=true&hide_border=true&theme=radical" alt="Trophies" />
 </div>
 
 ---
