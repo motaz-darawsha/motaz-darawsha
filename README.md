@@ -1,133 +1,67 @@
-<!-- GitHub Profile README -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Welcome+to+My+Profile!;Motaz+Darawsha;Node.js+Backend+Developer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <h1>👋 Motaz Darawsha</h1>
+  <p><strong>Node.js Backend Developer</strong> | JavaScript/TypeScript | Clean Architecture | Scalable Systems | Open Source Contributor</p>
+</p>
+
+<p align="center">
+  <a href="https://github.com/motaz-darawsha">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=server&logoColor=white" alt="Backend" />
+    <img src="https://img.shields.io/badge/Open%20Source-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="OpenSource" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=motaz-darawsha&label=Profile+Views&color=00C853&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/motaz-darawsha?color=00C853&style=for-the-badge" alt="GitHub followers" />
+</p>
 
 <div align="center">
-
-  <h1 style="margin-bottom: 4px;">Motaz Darawsha</h1>
-  <p style="margin-top: 0;">
-    <strong>Node.js Backend Developer</strong><br>
-    JavaScript · Scalable Systems · Clean Architecture
-  </p>
-
-  <img src="https://skillicons.dev/icons?i=nodejs,js" height="42" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=motaz-darawsha&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" alt="Trophies" />
 </div>
 
 ---
 
-<section>
+## 🌟 About Me
 
-<h2>Overview</h2>
+I specialize in building robust **Node.js backend systems** with a focus on clean, modular architectures that ensure scalability, maintainability, and performance. My expertise lies in designing event-driven applications, optimizing asynchronous operations, and implementing best practices for production-grade software.
 
-<p>
-I work exclusively with <strong>Node.js</strong>.
-I build backend systems that are designed to scale,
-stay readable, and behave predictably in real production environments.
+- **Key Focus Areas**: Clean Architecture, Domain-Driven Design (DDD), Microservices, API Optimization, and Asynchronous Programming.
+- **Experience Level**: Mid-Senior – Hands-on experience in refactoring legacy code, performance tuning, and deploying high-availability systems.
+- **Current Interests**: Exploring Node.js internals (e.g., V8 Engine, Libuv), containerization with Docker/Kubernetes, and real-time systems using WebSockets.
+
+---
+
+## 🛠️ Technical Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,mongodb,postgres,redis,docker,git,github,postman,jest" alt="Tech Stack" />
 </p>
 
-<p>
-I care more about architecture, performance, and maintainability
-than trends or over-engineering.
-</p>
-
-</section>
-
----
-
-<section>
-
-<h2>Technical Focus</h2>
-
-<ul>
-  <li>Backend services & APIs</li>
-  <li>Async and event-driven systems</li>
-  <li>Modular Node.js architecture</li>
-  <li>Runtime performance and reliability</li>
-</ul>
-
-</section>
+| Category             | Technologies & Tools                          |
+|----------------------|-----------------------------------------------|
+| **Languages**        | JavaScript (ES6+), TypeScript                 |
+| **Runtime**          | Node.js (v18+)                                |
+| **Frameworks**       | Express.js, NestJS, Fastify                   |
+| **Databases**        | MongoDB (NoSQL), PostgreSQL (SQL), Redis (Caching) |
+| **DevOps/Tools**     | Docker, Kubernetes, Git, npm/Yarn, Jest/Mocha, ESLint |
+| **Design Patterns**  | Clean Architecture, MVC, Repository Pattern, Dependency Injection |
+| **APIs & Protocols** | RESTful APIs, GraphQL, WebSockets, gRPC       |
+| **Other**            | CI/CD (GitHub Actions), Monitoring (Prometheus), Logging (Winston) |
 
 ---
 
-<section>
+## 🔥 Featured Project
 
-<h2>Stack</h2>
+### 🎵 [DisTube Enhanced Edition](https://github.com/motaz-darawsha/Distube-Enhanced-Edition)
 
-<ul>
-  <li><strong>Language:</strong> JavaScript (ES6+)</li>
-  <li><strong>Runtime:</strong> Node.js</li>
-  <li><strong>Package ecosystem:</strong> npm</li>
-  <li><strong>Style:</strong> minimal dependencies, clean abstractions</li>
-</ul>
-
-</section>
-
----
-
-<section>
-
-<h2>Selected Project</h2>
-
-<h3>Distube Enhanced Edition</h3>
-
-<p>
-A refined and extended version of DisTube,
-focused on better structure, extensibility, and runtime stability.
-</p>
-
-<p>
-<a href="https://github.com/motaz-darawsha/Distube-Enhanced-Edition">
-  View Repository →
-</a>
-</p>
-
-<ul>
-  <li>Improved internal architecture</li>
-  <li>Cleaner extension points</li>
-  <li>More predictable runtime behavior</li>
-  <li>Reduced edge-case issues</li>
-</ul>
-
-</section>
-
----
-
-<section>
-
-<h2>How I Build</h2>
-
-<ul>
-  <li>No over-engineering</li>
-  <li>Performance-driven decisions</li>
-  <li>Readable code over clever code</li>
-  <li>Systems built for long-term maintenance</li>
-</ul>
-
-</section>
-
----
-
-<section>
-
-<h2>Current Direction</h2>
-
-<ul>
-  <li>Deeper Node.js internals</li>
-  <li>Backend system design</li>
-  <li>Refining existing open-source codebases</li>
-</ul>
-
-</section>
-
----
-
-<section>
-
-<h2>GitHub</h2>
-
-<p>
-<a href="https://github.com/motaz-darawsha">
-  github.com/motaz-darawsha
-</a>
-</p>
-
-</section>
+A refactored and optimized fork of the DisTube library, emphasizing architectural improvements:
+- **Core Enhancements**: Modular internal structure using dependency injection, improved event handling with RxJS observables, and robust error boundaries.
+- **Performance Gains**: Asynchronous queue management, reduced memory footprint via efficient buffering, and support for concurrent streams.
+- **Extensibility**: Plugin system for custom extractors and filters, with TypeScript typings for developer ergonomics.
+- **Tech Stack**: Node.js, TypeScript, EventEmitter3, FF
