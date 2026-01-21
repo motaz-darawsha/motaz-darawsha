@@ -64,4 +64,50 @@ A refactored and optimized fork of the DisTube library, emphasizing architectura
 - **Core Enhancements**: Modular internal structure using dependency injection, improved event handling with RxJS observables, and robust error boundaries.
 - **Performance Gains**: Asynchronous queue management, reduced memory footprint via efficient buffering, and support for concurrent streams.
 - **Extensibility**: Plugin system for custom extractors and filters, with TypeScript typings for developer ergonomics.
-- **Tech Stack**: Node.js, TypeScript, EventEmitter3, FF
+- **Tech Stack**: Node.js, TypeScript, EventEmitter3, FFmpeg integration.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=motaz-darawsha&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=motaz-darawsha&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motaz-darawsha&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+## 🎯 Current Focus & Goals
+
+- Deepening knowledge in Node.js internals: Worker Threads, Clustering, and Async Hooks for multi-threaded performance.
+- Contributing to open-source: Enhancing libraries in the Node ecosystem, focusing on scalability and reliability.
+- Building high-performance systems: Experimenting with serverless architectures (AWS Lambda, Vercel) and edge computing.
+- Researching: Distributed systems, fault-tolerant designs, and zero-downtime deployments.
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/motaz-darawsha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:motazdarawsha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>"Clean architecture scales; clever code breaks."</em><br>
+  <strong>Motaz Darawsha</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Motaz%20Darawsha&fontSize=30&fontColor=fff" alt="Wave footer" />
+</p>
