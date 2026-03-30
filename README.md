@@ -56,18 +56,6 @@ I specialize in building robust **Node.js backend systems** with a focus on clea
 
 ---
 
-## 🔥 Featured Project
-
-### 🎵 [DisTube Enhanced Edition](https://github.com/motaz-darawsha/Distube-Enhanced-Edition)
-
-A refactored and optimized fork of the DisTube library, emphasizing architectural improvements:
-- **Core Enhancements**: Modular internal structure using dependency injection, improved event handling with RxJS observables, and robust error boundaries.
-- **Performance Gains**: Asynchronous queue management, reduced memory footprint via efficient buffering, and support for concurrent streams.
-- **Extensibility**: Plugin system for custom extractors and filters, with TypeScript typings for developer ergonomics.
-- **Tech Stack**: Node.js, TypeScript, EventEmitter3, FFmpeg integration.
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
